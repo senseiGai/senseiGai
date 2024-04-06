@@ -17,5 +17,5 @@ Spark Studio Frontend Developer
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senseigai&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=ff3916&hide_border=true&cache_seconds=1805&locale=en" alt="senseigai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senseigai&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=ff3916&cache_seconds=1805&locale=en" alt="senseigai" /></p>
 
